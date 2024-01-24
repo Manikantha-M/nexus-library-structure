@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "name": "art-list-test",
+    "displayName": "Art List Test",
+    "version": "0.0.1",
+    "username": "manikantha.m@neutrinos.co",
+    "publisher": "Manikantha",
+    "platformSupportVersion": {
+      "min": "8.1.0"
+    },
+    "description": "This library contains the test table component created for the art b2c project. ",
+    "pluginImage": "components.png"
+  },
+  "packages": [
+    {
+      "name": "art-list-test",
+      "version": "0.0.1",
+      "packageType": "angular-package",
+      "displayName": "Art List Test",
+      "packageDependencies": {
+        "tslib": "^2.3.0"
+      }
+    }
+  ]
+}
